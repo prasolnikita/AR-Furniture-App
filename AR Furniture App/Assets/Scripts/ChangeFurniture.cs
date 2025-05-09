@@ -30,7 +30,7 @@ public class ChangeFurniture : MonoBehaviour
         }
     }
 
-    private void OnButtonClick(string objectName)
+    public void OnButtonClick(string objectName)
     {
         foreach (GameObject obj in _furniture)
         {
