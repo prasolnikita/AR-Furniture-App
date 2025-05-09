@@ -4,7 +4,7 @@
 
 🎥 **Дивитися трейлер:** [перейти за посиланням](https://drive.google.com/drive/u/1/folders/1XNxFAU2MVP9xlxkR33ZGKnFlkdyRVwk0)
 
-📦 **Завантажити APK:** [ARFurniturePlacement.apk](AR%20Furniture%20App/apk.apk)
+📦 **Завантажити APK:** [ARFurniturePlacement.apk](https://drive.google.com/drive/u/1/folders/1XNxFAU2MVP9xlxkR33ZGKnFlkdyRVwk0)
 
 ## 👨‍💻 Виконавці
 
