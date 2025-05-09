@@ -2,7 +2,7 @@
 
 ## 🚀 Demo
 
-🎥 **Watch the trailer:** [Trailer](https://drive.google.com/drive/u/1/folders/1XNxFAU2MVP9xlxkR33ZGKnFlkdyRVwk0)
+🎥 **Дивитися трейлер:** [Trailer](https://drive.google.com/drive/u/1/folders/1XNxFAU2MVP9xlxkR33ZGKnFlkdyRVwk0)
 
 📦 **Завантажити APK:** [ARFurniturePlacement.apk](https://example.com/ARFurniturePlacement.apk)
 
@@ -10,7 +10,7 @@
 
 - Прасол Нікіта  
 - Ткачук Нікіта  
-- Група: КН-22-3
+** Група: КН-22-3 **
 
 ## ℹ Важливо
 
